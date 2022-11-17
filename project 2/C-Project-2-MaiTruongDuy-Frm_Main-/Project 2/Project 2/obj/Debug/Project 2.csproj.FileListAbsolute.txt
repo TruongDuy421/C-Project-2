@@ -1,0 +1,12 @@
+c:\users\lhuser\documents\visual studio 2013\Projects\Project 2\Project 2\bin\Debug\Project 2.exe.config
+E:\Bài làm\C#\project 2\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\bin\Debug\Project 2.exe.config
+E:\Bài làm\C#\project 2\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\bin\Debug\Project 2.exe
+E:\Bài làm\C#\project 2\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\bin\Debug\Project 2.pdb
+E:\Bài làm\C#\project 2\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+E:\Bài làm\C#\project 2\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\obj\Debug\Project_2.Frm_Main.resources
+E:\Bài làm\C#\project 2\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\obj\Debug\Project_2.Frm_TaoSoNgauNhien.resources
+E:\Bài làm\C#\project 2\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+E:\Bài làm\C#\project 2\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+E:\Bài làm\C#\project 2\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+E:\Bài làm\C#\project 2\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\obj\Debug\Project 2.exe
+E:\Bài làm\C#\project 2\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\obj\Debug\Project 2.pdb
